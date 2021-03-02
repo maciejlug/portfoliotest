@@ -11,7 +11,7 @@ const ContactContent = () => {
                 <div className="contact-grid-box">
                     <div className="email-box" >
                         <div className="box-icon">
-                            <FontAwesomeIcon icon={faAt} size="5x" />
+                            <FontAwesomeIcon icon={faAt} size="4x" />
                         </div>
                         <div className="box-text-upper">
                             <p>Email</p>
@@ -23,7 +23,7 @@ const ContactContent = () => {
 
                     <div className="phone-box">
                         <div className="box-icon">
-                                <FontAwesomeIcon icon={faPhone} size="5x" />
+                                <FontAwesomeIcon icon={faPhone} size="4x" />
                             </div>
                             <div className="box-text-upper">
                                 <p>Phone</p>
@@ -35,7 +35,7 @@ const ContactContent = () => {
                     <div className="github-box">
                         <a href="https://github.com/maciejlug">
                             <div className="box-icon">
-                            <FontAwesomeIcon icon={faGithubAlt} size="5x" />
+                            <FontAwesomeIcon icon={faGithubAlt} size="4x" />
                             </div>
                             <div className="box-text-upper">
                                 <p>Github</p>
@@ -48,7 +48,7 @@ const ContactContent = () => {
                     <div className="facebook-box">
                          <a href="https://www.facebook.com/user.654123/">
                          <div className="box-icon">
-                            <FontAwesomeIcon icon={faFacebook} size="5x" />
+                            <FontAwesomeIcon icon={faFacebook} size="4x" />
                         </div>
                         <div className="box-text-upper">
                             <p>Facebook</p>
