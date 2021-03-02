@@ -17,7 +17,7 @@ body, html {
 
 
 .text-projects-top{
-    z-index: -1;
+     z-index: -1;
     display:flex;
     justify-content: center;
     font-size: 2.5rem;
