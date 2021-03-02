@@ -55,18 +55,18 @@ body, html {
 .big-text{
     min-height: 40%;
     font-size: 4rem;
-    z-index: -1;
+
 }
 
 .small-text{
     min-height: 20%;
     font-size: 2rem;
-    z-index: -1;
+
 }
 
 .header-button{
     min-height: 40%;
-    z-index: -1;
+
 }
 
 .header-button a{
